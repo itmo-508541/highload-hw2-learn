@@ -25,4 +25,5 @@
 
 ## Прогресс
 
-- [ ] Урок 1 — `lessons/01-log-partition-key.md`
+- [x] Урок 1 — `lessons/01-log-partition-key.md`; `message_key` написан (22.11), все вопросы разобраны.
+- [ ] Урок 2 — кластер, реплики, ISR
